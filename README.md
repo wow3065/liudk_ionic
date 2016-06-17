@@ -1,4 +1,4 @@
 # liudk_ionic
-This is a demo about ionic.
-Used plugins:
+This is a demo about ionic.<br/>
+Used plugins:<br/>
 com.hewz.plugins.baidu.location
